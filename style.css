@@ -1,0 +1,23 @@
+
+
+img {
+	width: 100%;
+}
+.title {
+	padding: 10px;
+	color: grey;
+}
+.para {
+	padding: 10px;
+	text-align: justify;
+}
+
+.content{
+	padding: 10px;
+}
+
+.footer{
+	text-align: center;
+	background: #ee4c50;
+	color: white;
+}
